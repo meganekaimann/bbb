@@ -90,6 +90,7 @@ figure2.canvas.mpl_connect('key_press_event', Clickq)
 
 [プログラム説明]
 1-4 環境設定
+
 6 画像を読み込む
 8 画像のサイズを変更
 10 配列clickarrの初期化
