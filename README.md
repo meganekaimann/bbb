@@ -119,4 +119,6 @@ https://qiita.com/HajimeKawahara/items/abc24fa2216009523656
 
 http://yura2.hateblo.jp/entry/2017/09/12/matplotlib_%E3%81%A7%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E4%B8%8A%E3%81%AE%E7%82%B9%E3%82%92%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%81%99%E3%82%8B%E4%BE%8B
 
+https://stats.biopapyrus.jp/python/subplot.html
+
 
