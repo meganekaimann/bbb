@@ -121,4 +121,4 @@ http://yura2.hateblo.jp/entry/2017/09/12/matplotlib_%E3%81%A7%E3%83%97%E3%83%AD%
 
 https://stats.biopapyrus.jp/python/subplot.html
 
-
+![dgital.gif](b.gif)
