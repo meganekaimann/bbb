@@ -90,7 +90,6 @@ figure2.canvas.mpl_connect('key_press_event', Clickq)
 
 [プログラム説明]
 1-4 環境設定
-
 6 画像を読み込む
 8 画像のサイズを変更
 10 配列clickarrの初期化
@@ -113,7 +112,11 @@ numpyはver.3.0.3で、matplotlibはver.1.16.2である。
 
 [参考サイト]
 https://stats.biopapyrus.jp/python/subplot.html
+
 http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+
 https://qiita.com/HajimeKawahara/items/abc24fa2216009523656
+
 http://yura2.hateblo.jp/entry/2017/09/12/matplotlib_%E3%81%A7%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E4%B8%8A%E3%81%AE%E7%82%B9%E3%82%92%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%81%99%E3%82%8B%E4%BE%8B
+
 
