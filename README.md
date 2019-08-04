@@ -105,3 +105,6 @@ figure2.canvas.mpl_connect('key_press_event', Clickq)
 85-88 マウスの動きに対応する関数
 
 [実装方法]
+Jupyter notebook　で上記のコードを実装する。その際、　control+Enter　が実行コマンドとなる。
+
+[依存ライブラリとver.]
